@@ -31,8 +31,8 @@ I look forward to developing my skills as a full-stack web dev and game dev, foc
 
 **🌿 Past projects**
 > — Website Design + Info Section for [riverfishking.com](https://riverfishking.com/) <br>
-> — Interactive Storyline: [the beginning...?](https://abyssaldragonz.github.io/THE-BEGINNING.../)<br>
-> — Personal Showcase Website Prototype: <br>
+> — Interactive Storyline: [the beginning...?](https://abyssaldragonz.github.io/ASM2022-GameDev/the-beginning.html)<br>
+> — Personal Showcase Website Prototype: [showcase asm 2022](https://abyssaldragonz.github.io/ASM2022-GameDev/)<br>
 
 
 #
