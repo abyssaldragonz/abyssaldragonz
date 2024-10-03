@@ -1,10 +1,10 @@
 # Hello world, I'm Josephine ✨
 
-Since I was little, I've had a keen interest in dissecting video games and figuring out how things behind the scenes worked; taking computer science classes peaked my interest in understanding the backend of technology. As an artist, I find joy in crafting and creating, which lead to interest in the creative design aspects in front-end web development and in game development. <br>
+Since I was little, I've had a keen interest in dissecting video games and figuring out how things worked behind the scenes; taking computer science classes piqued my interest in understanding the backend of technology. As an artist, I find joy in crafting and creating, which led to interest in the creative design aspects in front-end web development and game design. <br>
 
-I carried this passion to my education at University of Illinois at Chicago where I am currently pursuing my Bachelor's in computer science, expected to graduate Fall 2026. I currently work as a part-time IT service analyst. Previously, I participated in After School Matters in team programming projects and game design. I have also previously worked as an intern, designing a website for small companies. I enjoy collaborating with others where we can all express our ideas in a safe environment and empowering their ideas to further resolve technical problems in a timely manner. <br>
+I carried this passion to my education at University of Illinois at Chicago where I am currently pursuing my Bachelor's in Computer Science, expected to graduate Fall 2026. I currently work as a part-time IT service analyst. Previously, I participated in After School Matters in team programming projects and game design. I have also previously worked as an intern, designing a website for small companies. I enjoy collaborating with others where we can all express our ideas in a safe environment and empower others to further resolve technical problems in a timely manner. <br>
 
-I look forward to developing my skills as a full-stack web dev and game dev, focusing on software engineering and creative technology. As I learn more about web and game design, I want to bring my skills to Chicago-based companies that is dedicated to software and creative development that will lead a positive impact on society. <br> <br>
+I look forward to developing my skills as a full-stack web dev and game dev, focusing on software engineering and creative technology. As I learn more about web and game design, I want to bring my skills to Chicago-based companies that are dedicated to software and creative development that will leave a positive impact on society. <br> <br>
 
 **☄️ Specialties:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +32,7 @@ I look forward to developing my skills as a full-stack web dev and game dev, foc
 **🌿 Past projects**
 > — Website Design + Info Section for [riverfishking.com](https://riverfishking.com/) <br>
 > — Interactive Storyline: [the beginning...?](https://abyssaldragonz.github.io/ASM2022-GameDev/the-beginning.html)<br>
-> — Personal Showcase Website Prototype: [showcase asm 2022](https://abyssaldragonz.github.io/ASM2022-GameDev/)<br>
+> — Personal Showcase Website Prototype: [asm summer 2022 showcase](https://abyssaldragonz.github.io/ASM2022-GameDev/)<br>
 
 
 #
