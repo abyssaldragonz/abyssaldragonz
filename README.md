@@ -21,13 +21,16 @@ I look forward to developing my skills as a full-stack web dev and game dev, foc
 <sup>— Data Structures </sup><br>
 
 <sup> **👾 What I'm Currently Focusing On Learning/Improving:** </sup><br>
-<sup>— Learning React.js </sup><br>
+<sup>— Learning/Improving React.js </sup><br>
 <sup>— Learning Unity </sup><br>
   
 #
 **🖥️ Current Projects**
 > — A course planner for computer science students at University of Illinois at Chicago <br>
 > — A website that teaches sorting and graph algorithms <br>
+> — My personal website! <br>
+> — A website that recreates a version of Minecraft Wordle <br>
+> — A website that recreates a version of Minecraft Guess Who <br>
 
 **🌿 Past projects**
 > — Website Design + Info Section for [riverfishking.com](https://riverfishking.com/) <br>
