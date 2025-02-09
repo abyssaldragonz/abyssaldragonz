@@ -22,17 +22,19 @@ I look forward to developing my skills as a full-stack web dev and game dev, foc
 
 <sup> **👾 What I'm Currently Focusing On Learning/Improving:** </sup><br>
 <sup>— Learning/Improving React.js </sup><br>
+<sup>— Learning/Improving Astro </sup><br>
 <sup>— Learning Unity </sup><br>
   
 #
 **🖥️ Current Projects**
-> — A course planner for computer science students at University of Illinois at Chicago <br>
 > — A website that teaches sorting and graph algorithms <br>
 > — My personal website! <br>
 > — A website that recreates a version of Minecraft Wordle <br>
 > — A website that recreates a version of Minecraft Guess Who <br>
 
 **🌿 Past projects**
+> — SparkHacks 2025 - Small Biz, Big Impact: Team [Pod Thai](https://github.com/michelle-tanner/sparkhacks2025/) <br>
+> — A course planner for CS students at UIC: [CS Insider](https://github.com/cheetodustflori/UIC-Course-Planner) <br>
 > — Website Design + Info Section for [riverfishking.com](https://riverfishking.com/) <br>
 > — Interactive Storyline: [the beginning...?](https://abyssaldragonz.github.io/ASM2022-GameDev/the-beginning.html)<br>
 > — Personal Showcase Website Prototype: [asm summer 2022 showcase](https://abyssaldragonz.github.io/ASM2022-GameDev/)<br>
