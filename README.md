@@ -33,6 +33,7 @@ I look forward to developing my skills as a full-stack web dev and game dev, foc
 > — A website that recreates a version of Minecraft Guess Who <br>
 
 **🌿 Past projects**
+> — UncommonHacks 2025 - Game Design: Team [Climate Warriors](https://devpost.com/software/climate-warriors) <br>
 > — HackIllinois 2025 - Best Financial Hack: Team [Golden Decisions](https://github.com/sgjohnson455/Hackillinois-2025-Golden-Decisions) <br>
 > — SparkHacks 2025 - Small Biz, Big Impact: Team [Pod Thai](https://github.com/michelle-tanner/sparkhacks2025/) <br>
 > — A course planner for CS students at UIC: [CS Insider](https://github.com/cheetodustflori/UIC-Course-Planner) <br>
