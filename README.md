@@ -27,19 +27,20 @@ I look forward to developing my skills as a full-stack web dev and game dev, foc
   
 #
 **🖥️ Current Projects**
-> — A website that teaches sorting and graph algorithms <br>
-> — My personal website! <br>
-> — A website that recreates a version of Minecraft Wordle <br>
-> — A website that recreates a version of Minecraft Guess Who <br>
+> — A website that teaches sorting and graph algorithms <sub>— ReactJS</sub><br>
+> — My personal website! <sub>— ReactJS + Vite</sub> <br>
+> — A website that recreates a version of Minecraft Wordle <sub>— ReactJS</sub> <br>
+> — A website that recreates a version of Minecraft Guess Who <sub>— ReactJS + Vite</sub> <br>
 
 **🌿 Past projects**
-> — UncommonHacks 2025 - Game Design: Team [Climate Warriors](https://devpost.com/software/climate-warriors) <br>
-> — HackIllinois 2025 - Best Financial Hack: Team [Golden Decisions](https://github.com/sgjohnson455/Hackillinois-2025-Golden-Decisions) <br>
-> — SparkHacks 2025 - Small Biz, Big Impact: Team [Pod Thai](https://github.com/michelle-tanner/sparkhacks2025/) <br>
-> — A course planner for CS students at UIC: [CS Insider](https://github.com/cheetodustflori/UIC-Course-Planner) <br>
-> — Website Design + Info Section for [riverfishking.com](https://riverfishking.com/) <br>
-> — Interactive Storyline: [the beginning...?](https://abyssaldragonz.github.io/ASM2022-GameDev/the-beginning.html)<br>
-> — Personal Showcase Website Prototype: [asm summer 2022 showcase](https://abyssaldragonz.github.io/ASM2022-GameDev/)<br>
+> — ScarletHacks 2025 - Environmental Sustainability: Team [EcoPet](https://devpost.com/software/ecopet-41f6ms) <sub>— Expo + React Native</sub> <br>
+> — UncommonHacks 2025 - Game Design: Team [Climate Warriors](https://devpost.com/software/climate-warriors) <sub>— Unity</sub> <br>
+> — HackIllinois 2025 - Best Financial Hack: Team [Golden Decisions](https://github.com/sgjohnson455/Hackillinois-2025-Golden-Decisions) <sub>— ReactJS + Vite</sub> <br>
+> — SparkHacks 2025 - Small Biz, Big Impact: Team [Pod Thai](https://github.com/michelle-tanner/sparkhacks2025/) <sub>— Astro</sub> <br>
+> — A course planner for CS students at UIC: [CS Insider](https://github.com/cheetodustflori/UIC-Course-Planner) <sub>— ReactJS + Vite</sub> <br>
+> — Website Design + Info Section for [riverfishking.com](https://riverfishking.com/) <sub>— Wordpress</sub> <br>
+> — Interactive Storyline: [the beginning...?](https://abyssaldragonz.github.io/ASM2022-GameDev/the-beginning.html) <sub>— StoryTwine</sub> <br>
+> — Personal Showcase Website Prototype: [asm summer 2022 showcase](https://abyssaldragonz.github.io/ASM2022-GameDev/) <sub>— HTML + CSS</sub> <br>
 
 
 #
