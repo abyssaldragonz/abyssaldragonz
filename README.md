@@ -36,9 +36,10 @@ I look forward to developing my skills as a full-stack web developer and game de
 > — A website that recreates a version of Minecraft Wordle <sub>— ReactJS</sub> <br>
 > — A website that recreates a version of Minecraft Guess Who <sub>— ReactJS + Vite</sub> <br>
 > — Developing an Intro to Python Game Dev program for [Arrayscape](https://www.arrayscape.com/) <sub>— Python + pygame</sub> <br>
-> — A website compiling all the food options around UIC campus<sub>— ReactJS + Vite & Python</sub> <br>
+> — A website compiling all the food options around UIC campus<sub> — ReactJS + Vite & Python</sub> <br>
 
 **🌿 Past projects**
+> — CodePath WEB101 Project: [Dungeon Runners](https://abyssaldragonz.github.io/CodePathSpring2025/WEB101/JLee_WEB101/index.html) <sub>— HTML + CSS</sub> <br>
 > — ScarletHacks 2025 - Environmental Sustainability: Team [EcoPet](https://devpost.com/software/ecopet-41f6ms) <sub>— Expo + React Native</sub> <br>
 > — UncommonHacks 2025 - Game Design: Team [Climate Warriors](https://devpost.com/software/climate-warriors) <sub>— Unity</sub> <br>
 > — HackIllinois 2025 - Best Financial Hack: Team [Golden Decisions](https://github.com/sgjohnson455/Hackillinois-2025-Golden-Decisions) <sub>— ReactJS + Vite</sub> <br>
@@ -46,7 +47,7 @@ I look forward to developing my skills as a full-stack web developer and game de
 > — A course planner for CS students at UIC: [CourseBits](https://github.com/cheetodustflori/CourseBits) <sub>— ReactJS + Vite</sub> <br>
 > — Website Design + Info Section for [riverfishking.com](https://riverfishking.com/) <sub>— Wordpress</sub> <br>
 > — Interactive Storyline: [the beginning...?](https://abyssaldragonz.github.io/ASM2022-GameDev/the-beginning.html) <sub>— StoryTwine</sub> <br>
-> — Personal Showcase Website Prototype: [asm summer 2022 showcase](https://abyssaldragonz.github.io/ASM2022-GameDev/) <sub>— HTML + CSS</sub> <br>
+> — Personal Showcase Website Prototype: [ASM Summer 2022 Showcase](https://abyssaldragonz.github.io/ASM2022-GameDev/) <sub>— HTML + CSS</sub> <br>
 
 
 #
