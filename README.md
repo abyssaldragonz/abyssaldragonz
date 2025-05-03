@@ -38,13 +38,13 @@ I look forward to developing my skills as a full-stack web developer and game de
 > — Developing an Intro to Python Game Dev program for [Arrayscape](https://www.arrayscape.com/) <sub>— Python + pygame</sub> <br>
 
 **🌿 Past projects**
-> — CS 351 Project - UIC Student Themed Application Track: UICbites <sub>— ReactJS + Vite & Python + Flask</sub> <br>
-> — CodePath WEB101 Project: [Dungeon Runners](https://abyssaldragonz.github.io/CodePathSpring2025/WEB101/JLee_WEB101/index.html) <sub>— HTML + CSS</sub> <br>
+> — CS 351 Project - UIC Student Themed Application Track: [UICbites](https://abyssaldragonz.github.io/UICbites/) <sub>— ReactJS + Vite & Python + Flask</sub> <br>
+> — CodePath WEB101 Project: [Dungeon Runners](https://abyssaldragonz.github.io/CodePathSpring2025/WEB101/JLee_WEB101/index.html) <sub>— HTML + CSS + JS</sub> <br>
 > — ScarletHacks 2025 - Environmental Sustainability: Team [EcoPet](https://devpost.com/software/ecopet-41f6ms) <sub>— Expo + React Native</sub> <br>
 > — UncommonHacks 2025 - Game Design: Team [Climate Warriors](https://devpost.com/software/climate-warriors) <sub>— Unity</sub> <br>
-> — HackIllinois 2025 - Best Financial Hack: Team [Golden Decisions](https://github.com/sgjohnson455/Hackillinois-2025-Golden-Decisions) <sub>— ReactJS + Vite</sub> <br>
-> — SparkHacks 2025 - Small Biz, Big Impact: Team [Pod Thai](https://github.com/michelle-tanner/sparkhacks2025/) <sub>— Astro</sub> <br>
-> — A course planner for CS students at UIC: [CourseBits](https://github.com/cheetodustflori/CourseBits) <sub>— ReactJS + Vite</sub> <br>
+> — HackIllinois 2025 - Best Financial Hack: Team [Golden Decisions](https://devpost.com/software/golden-decisions) <sub>— ReactJS + Vite</sub> <br>
+> — SparkHacks 2025 - Small Biz, Big Impact: Team [Pod Thai](https://devpost.com/software/pod-thai-s-small-biz-big-impact) <sub>— Astro</sub> <br>
+> — A course planner for CS students at UIC: [CourseBits](https://cheetodustflori.github.io/CourseBits/) <sub>— ReactJS + Vite</sub> <br>
 > — Website Design + Info Section for [riverfishking.com](https://riverfishking.com/) <sub>— Wordpress</sub> <br>
 > — Interactive Storyline: [the beginning...?](https://abyssaldragonz.github.io/ASM2022-GameDev/the-beginning.html) <sub>— StoryTwine</sub> <br>
 > — Personal Showcase Website Prototype: [ASM Summer 2022 Showcase](https://abyssaldragonz.github.io/ASM2022-GameDev/) <sub>— HTML + CSS</sub> <br>
