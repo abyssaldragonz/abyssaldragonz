@@ -19,6 +19,8 @@ I look forward to developing my skills as a full-stack web developer and game de
 <br> <br>
 
 <sup> **✏️ Notable Courses:** </sup><br>
+<sup>— Software Design </sup><br>
+<sup>— Advanced Data Structures </sup><br>
 <sup>— Data Structures </sup><br>
 <sup>— Program Design II </sup><br>
 <sup>— Writing for Inquiry and Research </sup><br>
