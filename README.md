@@ -37,11 +37,10 @@ I look forward to developing my skills as a full-stack web developer and game de
 > — My personal website! <sub>— ReactJS + Vite</sub> <br>
 > — A website that recreates a version of Minecraft Wordle <sub>— ReactJS</sub> <br>
 > — A website that recreates a version of Minecraft Guess Who <sub>— ReactJS + Vite</sub> <br>
-> — Developing an Intro to Python Game Dev program for [Arrayscape](https://www.arrayscape.com/) <sub>— Python + pygame</sub> <br>
 
 **🌿 Past projects**
+> — Developed an Intro to Python Game Dev program for [Arrayscape](https://www.arrayscape.com/) <sub>— Python + pygame</sub> <br>
 > — CS 351 (Advanced Data Structures) Project - UIC Student Themed Application Track: [UICbites](https://abyssaldragonz.github.io/UICbites/) <sub>— ReactJS + Vite & Python + Flask</sub> <br>
-> — CodePath WEB101 Project: [Dungeon Runners](https://abyssaldragonz.github.io/CodePathSpring2025/WEB101/JLee_WEB101/index.html) <sub>— HTML + CSS + JS</sub> <br>
 > — ScarletHacks 2025 - Environmental Sustainability: Team [EcoPet](https://devpost.com/software/ecopet-41f6ms) <sub>— Expo + React Native</sub> <br>
 > — UncommonHacks 2025 - Game Design: Team [Climate Warriors](https://devpost.com/software/climate-warriors) <sub>— Unity</sub> <br>
 > — HackIllinois 2025 - Best Financial Hack: Team [Golden Decisions](https://devpost.com/software/golden-decisions) <sub>— ReactJS + Vite</sub> <br>
