@@ -39,6 +39,7 @@ I look forward to developing my skills as a full-stack web developer and game de
 > — A website that recreates a version of Minecraft Guess Who <sub>— ReactJS + Vite</sub> <br>
 
 **🌿 Past projects**
+> — Organized [SparkHacks 2026](https://github.com/SparkHacks/spark-web-2026) as part of the Web Dev team <sub>— Astro + ReactJS + Firebase</sub> <br>
 > — Developed an Intro to Python Game Dev program for [Arrayscape](https://www.arrayscape.com/) <sub>— Python + pygame</sub> <br>
 > — CS 351 (Advanced Data Structures) Project - UIC Student Themed Application Track: [UICbites](https://abyssaldragonz.github.io/UICbites/) <sub>— ReactJS + Vite & Python + Flask</sub> <br>
 > — ScarletHacks 2025 - Environmental Sustainability: Team [EcoPet](https://devpost.com/software/ecopet-41f6ms) <sub>— Expo + React Native</sub> <br>
