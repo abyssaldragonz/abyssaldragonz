@@ -7,13 +7,15 @@ I carried this passion to my education at the University of Illinois at Chicago,
 I look forward to developing my skills as a full-stack web developer and game developer, focusing on software engineering and creative technology. As I learn more about web and game design, I want to bring my skills to Chicago-based companies that are dedicated to software and creative development that will leave a positive impact on society. <br> <br>
 
 **☄️ Specialties:**
+![Astro](https://img.shields.io/badge/astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/reactJS-grey?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 <br> <br>
@@ -37,9 +39,10 @@ I look forward to developing my skills as a full-stack web developer and game de
 > — My personal website! <sub>— ReactJS + Vite</sub> <br>
 > — A website that recreates a version of Minecraft Wordle <sub>— ReactJS</sub> <br>
 > — A website that recreates a version of Minecraft Guess Who <sub>— ReactJS + Vite</sub> <br>
+> — A website for ACM SIG-WebDev <sub>— ReactJS + TailwindCSS</sub><br>
 
 **🌿 Past projects**
-> — Organized [SparkHacks 2026](https://github.com/SparkHacks/spark-web-2026) as part of the Web Dev team <sub>— Astro + ReactJS + Firebase</sub> <br>
+> — Organized [SparkHacks 2026](https://github.com/SparkHacks/spark-web-2026) as part of the Web Dev team <sub>— Astro + ReactJS + TailwindCSS + Firebase</sub> <br>
 > — Developed an Intro to Python Game Dev program for [Arrayscape](https://www.arrayscape.com/) <sub>— Python + pygame</sub> <br>
 > — CS 351 (Advanced Data Structures) Project - UIC Student Themed Application Track: [UICbites](https://abyssaldragonz.github.io/UICbites/) <sub>— ReactJS + Vite & Python + Flask</sub> <br>
 > — ScarletHacks 2025 - Environmental Sustainability: Team [EcoPet](https://devpost.com/software/ecopet-41f6ms) <sub>— Expo + React Native</sub> <br>
@@ -58,7 +61,7 @@ I look forward to developing my skills as a full-stack web developer and game de
 [<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" height="30"/>](https://linkedin.com/in/josephine-b-l/)
 [<img src="https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg" alt="DevPost" height="30"/>](https://devpost.com/abyssaldragonz)
 [<img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" height="30"/>](https://www.figma.com/@abyssaldragonz)
-| Website: [abyssaldragonz.wixsite.com](https://abyssaldragonz.wixsite.com/home) | Email: jbl.noetic@gmail.com
+| Temp-Website: [abyssaldragonz.wixsite.com](https://abyssaldragonz.wixsite.com/home) | Email: jbl.noetic@gmail.com
 
 
 
