@@ -39,9 +39,10 @@ I look forward to developing my skills as a full-stack web developer and game de
 > — My personal website! <sub>— ReactJS + Vite</sub> <br>
 > — A website that recreates a version of Minecraft Wordle <sub>— ReactJS</sub> <br>
 > — A website that recreates a version of Minecraft Guess Who <sub>— ReactJS + Vite</sub> <br>
-> — A website for ACM SIG-WebDev <sub>— ReactJS + TailwindCSS</sub><br>
+> — SparkHacks 2027!</sub><br>
 
 **🌿 Past projects**
+> — A website for [ACM SIG-WebDev](https://github.com/Ddomir/LinkIt) <sub>— ReactJS + TailwindCSS</sub><br>
 > — Organized [SparkHacks 2026](https://github.com/SparkHacks/spark-web-2026) as part of the Web Dev team <sub>— Astro + ReactJS + TailwindCSS + Firebase</sub> <br>
 > — Developed an Intro to Python Game Dev program for [Arrayscape](https://www.arrayscape.com/) <sub>— Python + pygame</sub> <br>
 > — CS 351 (Advanced Data Structures) Project - UIC Student Themed Application Track: [UICbites](https://abyssaldragonz.github.io/UICbites/) <sub>— ReactJS + Vite & Python + Flask</sub> <br>
